@@ -8,55 +8,55 @@ const BankOne = [
     keyCode: 81,
     keyTrigger: 'Q',
     id: 'Heater-1',
-    url:'https://raw.githubusercontent.com/JackCree/Drum-machine/master/src/Sounds/Bld_H1.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3'
   },
   {
     keyCode: 87,
     keyTrigger: 'S',
     id: 'Heater-2',
-    url:'./Sounds/Heater-2.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Heater-2.mp3'
   },
   {
     keyCode: 69,
     keyTrigger: 'E',
     id: 'Heater-3',
-    url:'./Sounds/Heater-3.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Heater-3.mp3'
   },
   {
     keyCode: 65,
     keyTrigger: 'A',
     id: 'Heater-4',
-    url:'./Sounds/Heater-4_1.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Heater-4_1.mp3'
   },
   {
     keyCode: 83,
     keyTrigger: 'S',
     id: 'Clap',
-    url:'./Sounds/Heater-6.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Heater-6.mp3'
   },
   {
     keyCode: 68,
     keyTrigger: 'D',
     id: 'open-HH',
-    url:'./Sounds/Dsc_Oh.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Dsc_Oh.mp3'
   },
   {
     keyCode: 90,
     keyTrigger: 'Z',
     id: 'Kick-n-Hat',
-    url:'./Sounds/Kick_n_Hat.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Kick_n_Hat.mp3'
   },
   {
     keyCode: 88,
     keyTrigger: 'X',
     id: 'Kick',
-    url:'./Sounds/RP4-KICK.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/RP4-KICK.mp3'
   },
   {
     keyCode: 67,
     keyTrigger: 'C',
     id: 'Closed-HH',
-    url:'./Sounds/Cev_H2.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Cev_H2.mp3'
   }
 ];
 
@@ -66,55 +66,55 @@ const BankTwo = [
     keyCode: 81,
     keyTrigger: 'Q',
     id: 'Chord-1',
-    url:'./Sounds/Chord-1.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Chord-1.mp3'
   },
   {
     keyCode: 87,
     keyTrigger: 'S',
     id: 'Chord-2',
-    url:'./Sounds/Chord-2.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Chord-2.mp3'
   },
   {
     keyCode: 69,
     keyTrigger: 'E',
     id: 'Chord-3',
-    url:'./Sounds/Chord-3.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Chord-3.mp3'
   },
   {
     keyCode: 65,
     keyTrigger: 'A',
     id: 'Shaker',
-    url:'./Sounds/Give_us_a_light.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Give_us_a_light.mp3'
   },
   {
     keyCode: 83,
     keyTrigger: 'S',
     id: 'Open-HH-2',
-    url:'./Sounds/Dry_Ohh.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Dry_Ohh.mp3'
   },
   {
     keyCode: 68,
     keyTrigger: 'D',
     id: 'Closed-HH-2',
-    url:'./Sounds/Bld_H1.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Bld_H1.mp3'
   },
   {
     keyCode: 90,
     keyTrigger: 'Z',
     id: 'Punchy-Kick',
-    url:'./Sounds/punchy_kick_1.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/punchy_kick_1.mp3'
   },
   {
     keyCode: 88,
     keyTrigger: 'X',
     id: 'Side-Kick',
-    url:'./Sounds/side_stick_1.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/side_stick_1.mp3'
   },
   {
     keyCode: 67,
     keyTrigger: 'C',
     id: 'Snare',
-    url:'./Sounds/Brk_Snr.mp3'
+    url:'https://s3.amazonaws.com/freecodecamp/drums/Brk_Snr.mp3'
   }
 ];
 
