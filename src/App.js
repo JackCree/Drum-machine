@@ -8,7 +8,7 @@ const BankOne = [
     keyCode: 81,
     keyTrigger: 'Q',
     id: 'Heater-1',
-    url:'./Sounds/Heater-1.mp3'
+    url:'https://raw.githubusercontent.com/JackCree/Drum-machine/master/src/Sounds/Bld_H1.mp3'
   },
   {
     keyCode: 87,
